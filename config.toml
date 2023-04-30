@@ -1,0 +1,85 @@
+
+# Global options
+baseURL = "/"
+canonifyURLs = true
+copyright = "© 2023 by Erik Sandström. <a href='/privacy'>Privacy policy</a>."
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en"
+theme = "barks"
+title = "Erik Sandström"
+
+
+
+# Main menu
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Publications"
+    url  = "/publications"
+    weight = 2
+
+
+# Customization options
+[params]
+
+    [params.head]
+        author = "Erik Sandström"
+        custom_css = ""
+        description = "Hi, I'm Erik, and this is my website!"
+        keywords = ["ethz", "phd", "computer vision", "3D", "slam"]
+
+    [params.navigation]
+        show_navigation = true
+
+    [params.footer]
+        show_footer = true
+
+    [params.typography]
+        title_font = "Bree Serif"
+        body_font = "Source Sans Pro"
+
+    [params.colors]
+        theme_color = "#333333"
+        background_color = "#fcfbf9"
+        text_color = "#333333"
+        link_color = "#60c17d"
+
+    [params.social]
+        [params.social.email]
+            name = "E-Mail"
+            class = "fas fa-envelope"
+            url = "mailto:esandstroem@vision.ee.ethz.ch"
+            weight = 1
+        [params.social.github]
+            name = "GitHub"
+            class = "fab fa-github"
+            url = "https://github.com/eriksandstroem/"
+            weight = 2
+        [params.social.google_scholar]
+            name = "Google Scholar"
+            class = "ai ai-google-scholar-square"
+            url = ""
+            weight = 3
+        [params.social.institution]
+            name = "My institution"
+            class = "fas fa-university"
+            url = "https://ee.ethz.ch/the-department/people-a-z/person-detail.MjYzMzgx.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html"
+            weight = 5
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://ch.linkedin.com/in/eriksandstr%C3%B6m"
+            weight = 6
+
+# Options for Markdown renderer
+[markup]
+
+    [markup.goldmark.renderer]
+        unsafe = true
+        xHTML = true
+
+    [markup.highlight]
+        style = 'dracula'
