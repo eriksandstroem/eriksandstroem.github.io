@@ -2,7 +2,7 @@
 # Global options
 baseURL = "/"
 canonifyURLs = true
-copyright = "© 2023 by Erik Sandström. <a href='/privacy'>Privacy policy</a>."
+copyright = "© 2023 by Erik Sandström."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
@@ -61,7 +61,7 @@ title = "Erik Sandström"
         [params.social.google_scholar]
             name = "Google Scholar"
             class = "ai ai-google-scholar-square"
-            url = ""
+            url = "https://scholar.google.com/citations?user=phiETm4AAAAJ&hl=en"
             weight = 3
         [params.social.institution]
             name = "My institution"
