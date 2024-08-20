@@ -1,7 +1,9 @@
 ---
-title: "Publications"
+title: Publications
 hide_title: true
 ---
+
+## Selected Publications
 
 * **E. Sandström**, K. Tateno, M. Oechsle, M. Niemeyer, L. Van Gool, M. Oswald F. Tombari. Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians. arxiv: [2405.16544](https://arxiv.org/abs/2405.16544).
 
