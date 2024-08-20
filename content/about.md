@@ -12,6 +12,6 @@ Before I began my doctoral studies in September 2019, I studied engineering phys
 
 ## Research Interests
 
-The goal of my research is to attain high-quality dense 3D reconstructions of scenes using online methods. Previously, I have focused on how complementary sensor information can be fused for optimal 3D quality, online sensor uncertainty estimation and representations for dense 3D models. Applications include robotic perception as well as augmented and virtual reality.
+The goal of my research is to attain high-quality dense 3D reconstructions of scenes using online methods. I have worked on a quite broad range of problems from sensor fusion, uncertainty estimation, 3D representations, loop closure and RGB-only SLAM.
 
 I also have a great interest in teamwork and I truly enjoy passing on my own experience and knowledge within the field to aspiring students. Therefore, I collaborate and supervise students at master level.

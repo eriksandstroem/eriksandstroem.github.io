@@ -17,8 +17,8 @@ title = "Erik Sandström"
     url  = "/about"
     weight = 2
 [[menu.main]]
-    name = "Publications"
-    url  = "/publications"
+    name = "Selected Publications"
+    url  = "/selected_publications"
     weight = 2
 
 
