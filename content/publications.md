@@ -1,5 +1,5 @@
 ---
-title: Selected Publications
+title: "Selected Publications"
 hide_title: true
 ---
 
