@@ -5,9 +5,15 @@ hide_title: true
 
 ## Selected Publications
 
+* L. Zhu, Y. Li, **E. Sandström**, S. Huang, K. Schindler, I. Armeni. LoopSplat: Loop Closure by Registering 3D Gaussian Splats. arxiv: [2408.10154](https://www.arxiv.org/abs/2408.10154).
+
+* A. Puigjaner, E. Mello Rella, **E. Sandström**, A. Chhatkuli, L. Van Gool. VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction. arxiv: [2408.08766v1](https://arxiv.org/abs/2408.08766v1).
+
 * **E. Sandström**, K. Tateno, M. Oechsle, M. Niemeyer, L. Van Gool, M. Oswald F. Tombari. Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians. arxiv: [2405.16544](https://arxiv.org/abs/2405.16544).
 
 * **E. Sandström**, G. Zhang, Y. Zhang, M. Patel, L. Van Gool, M. Oswald. GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM. arxiv: [2403.19549](https://arxiv.org/abs/2403.19549).
+
+* F. Tosi, Y. Zhang, Z. Gong, **E. Sandström**, S. Mattoccia, M. Oswald, M. Poggi. How nerfs and 3d gaussian splatting are reshaping slam: a survey. arxiv: [2402.13255](https://arxiv.org/abs/2402.13255).
 
 * **E. Sandström**, L. Liso, V. Yugay, L. Van Gool, M. Oswald. Loopy-SLAM: Dense Neural SLAM with Loop Closures. Conference on Computer Vision and Pattern Recognition (CVPR). 2024. arxiv: [2402.09944](https://arxiv.org/abs/2402.09944).
 
